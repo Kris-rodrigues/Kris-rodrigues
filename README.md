@@ -10,6 +10,3 @@ I am a passionate developer who enjoys turning caffeine into clean, scalable cod
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-# 🐍 Contribution Snake
-![snake gif](https://raw.githubusercontent.com/Kris%20Gaspar%20Rodrigues/Kris%20Gaspar%20Rodrigues/output/github-contribution-grid-snake.svg)
